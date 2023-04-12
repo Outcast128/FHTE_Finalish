@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 81e01f7c840d9dd49903df070ab80207
+  - enabled: 1
+    path: Assets/Scenes/Level-01.unity
+    guid: fa8ef98d95c4b08408558b978e7f6411
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: eb9557fcf5f0a3a42a720afdac1c667b
+  - enabled: 1
+    path: Assets/Scenes/PreHistoric1.unity
+    guid: d49694334bab8dd49b75f5e501b86042
+  - enabled: 1
+    path: Assets/Scenes/PreHistoric2.unity
+    guid: 686263c7cbcf06c42a06ae0f708e7778
+  - enabled: 1
+    path: Assets/Scenes/PreHistoricBoss.unity
+    guid: 38e713d8cf1f8f84d833c9da51672425
+  - enabled: 1
+    path: Assets/Scenes/Atlantis1.unity
+    guid: 21e2f104a4c6ce64f820c3a4e70082c6
+  - enabled: 1
+    path: Assets/Scenes/Atlantis2.unity
+    guid: 7f503193a8431a04f930081b593275b6
+  - enabled: 1
+    path: Assets/Scenes/AtlantisBoss.unity
+    guid: cfef3dbddf8e36648ae30ca8372fa066
+  - enabled: 1
+    path: Assets/Scenes/Medival1.unity
+    guid: 7a063167c4960bf40a4627ef785c04c0
+  - enabled: 1
+    path: Assets/Scenes/Medival2.unity
+    guid: e0921d074ea190c41b50620449374162
+  - enabled: 1
+    path: Assets/Scenes/MedivalBoss.unity
+    guid: cc6c005a684c60646877c2383393c57b
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: a265ff1cb17475b42a387cc555d3d6f4
+  m_configObjects: {}

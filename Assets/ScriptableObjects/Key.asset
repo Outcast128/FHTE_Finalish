@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b33c74260f9f0242a4ea68348c09186, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: -1874911427, guid: ca07d5335ba0eb943813a547f925c33b, type: 3}
+  itemDescription: It's a key. Is there a gate somewhere?
+  isKey: 1
+  isHeart: 0
+  isSword: 0
+  isBoots: 0
+  isDash: 0
+  isArrow: 0
